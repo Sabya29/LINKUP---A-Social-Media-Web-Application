@@ -21,4 +21,4 @@ A full-stack social media platform developed with the MERN stack (MongoDB, Expre
 4. Start the application – Run the frontend using npm start inside the client folder, which will launch the application in your browser at http://localhost:3000. Start the backend by running nodemon inside the server         folder, which will initialize the backend on http://localhost:5000 (or your configured port).
 
 
-![SignUp](https://github.com/Sabya29/LINKUP---A-Social-Media-Web-Application/assets/117813967/5b901509-12cc-4e6e-a4e7-ebc21b90a7f2)
+![SignUp](https://github.com/Sabya29/LINKUP---A-Social-Media-Web-Application/blob/main/images/246135867-4666edc8-5ae0-48b8-8570-9b16106d83ab.png)
